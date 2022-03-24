@@ -1,2 +1,3 @@
-# HeartDiseaseDataAnalysis
-The final project of an 8-session introductory data analysis course. On a heart disease data sheet
+<span style="color: green"> *** DOWNLOAD THE CSV FIRST BEFORE RUNING THE CODE AND MAKE SURE TO IMPORT IT FROM THE CORRECT DESTINATION https://drive.google.com/file/d/1vbtmAyAJfCe5qCHUMnHlxE7-cwjw7dHR/view?usp=sharing *** </span>
+# Heart disease data analysis
+
