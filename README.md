@@ -6,6 +6,12 @@
 Using different data cleaning methods, comparisons, results graphing and machine learning, I was able to extract useful information and correlation between the data of the heart disease data sheet.
 Below are the graphs that I have generated to display and simplify the results of the correlation between the different factors that were included in the heart disease data sheet
 
+# Badges
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+
 ![capture_20220324215318525](https://user-images.githubusercontent.com/81246343/160001476-81c6da31-df09-4101-9558-d6a8d9e63471.jpg)
 
 
